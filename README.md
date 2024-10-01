@@ -21,7 +21,7 @@ Tkinter: Pre-installed with Python, or use your system package manager to instal
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/network-packet-tracer.git
+git clone https://github.com/yourusername/network-packet-tracer.git](https://github.com/mhtkr/Network-Packet-Ananlyzer.git
 cd network-packet-tracer
 Install the required Python packages:
 
